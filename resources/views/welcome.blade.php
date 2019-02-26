@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel-lqq
+                    Laravel-lqq-woaini
                 </div>
 
                 <div class="links">
